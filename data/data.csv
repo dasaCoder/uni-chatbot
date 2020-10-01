@@ -4,17 +4,29 @@ good morning,GREETING
 good evening,GREETING
 morning,GREETING
 hi!,GREETING
+hi,GREETING
 good afternoon,GREETING
 good night,GREETING
 hey,GREETING
 hey! there,GREETING
-give me the list of my enrolled courses,NORMAL
-what are the subject that i'm enrooled for semester 1,NORMAL
-give me the list of my enrolled courses for sem 2,NORMAL
-what are my enrolled courses for second semester,NORMAL
 i need to enroll for a course,ENROLL_COURSE
 enroll me for the course,ENROLL_COURSE
 i want to enroll for the course module imgt 8799,ENROLL_COURSE
 i need to enroll for the course seng 1254,ENROLL_COURSE
 enroll me for the imgt 7452,ENROLL_COURSE
 please enroll me for the course seng 4123,ENROLL_COURSE
+i need to know my results,GET_RESULT
+i want to see my results for course SENG 14523,GET_RESULT
+i need to know my results for the course,GET_RESULT
+i would like to see my results,GET_RESULT
+i need to see my result for subject SENG 14523,GET_RESULT
+need to shedule a lecture,ARRANGE_LECTURE
+i need to shedule a lecture,ARRANGE_LECTURE
+i want to arrange a lecture,ARRANGE_LECTURE
+can you arrange a lecture,ARRANGE_LECTURE
+what are the today's lectures?,TODAY_LECTURES
+what lectures we have today?,TODAY_LECTURES
+give me today's lectures,TODAY_LECTURES
+show me today's lectures,TODAY_LECTURES
+today lectures,TODAY_LECTURES
+which lecutures do i have today,TODAY_LECTURES
