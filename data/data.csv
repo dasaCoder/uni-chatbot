@@ -30,3 +30,22 @@ give me today's lectures,TODAY_LECTURES
 show me today's lectures,TODAY_LECTURES
 today lectures,TODAY_LECTURES
 which lecutures do i have today,TODAY_LECTURES
+add payment detail to student,UPDATE_PAYMENT_DETAIL
+update payment details,UPDATE_PAYMENT_DETAIL
+update payment detail for student,UPDATE_PAYMENT_DETAIL
+payment details update,UPDATE_PAYMENT_DETAIL
+add payment details,UPDATE_PAYMENT_DETAIL
+i need to update payment details,UPDATE_PAYMENT_DETAIL
+i wan to add payment detail,UPDATE_PAYMENT_DETAIL
+get list of unpaid students,UNPAID_LIST
+i need to get list of unpaid students,UNPAID_LIST
+i want to get list of unpaid students,UNPAID_LIST
+show me ths list of unpaid students,UNPAID_LIST
+can you show me the list of unpaid students,UNPAID_LIST
+need to add assignment,ADD_ASSIGNMENT
+i need to add new assignment,ADD_ASSIGNMENT
+i want to add new assignment,ADD_ASSIGNMENT
+can i add new assignment,ADD_ASSIGNMENT
+i am going to add new assignment,ADD_ASSIGNMENT
+add new assignment,ADD_ASSIGNMENT
+add assignment,ADD_ASSIGNMENT
