@@ -29,7 +29,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn import tree
 from sklearn.feature_extraction.text import CountVectorizer
 
-classifier = tree.DecisionTreeClassifier(max_depth=5)
+classifier = MultinomialNB()
 stop_words = ['i','please','a','to']
 
 countervect = CountVectorizer(min_df=5)  ##,stop_words=stop_words
@@ -54,7 +54,7 @@ def predict(text):
   guess_proba = classifier.predict_proba(prepare_text(text))
   max_value = max(guess_proba[0])
   print(max_value)
-  if max_value > 0.2:
+  if max_value > 0.4:
     return {'result': classifier.predict(prepare_text(text))[0]}
   else: 
     return {'result' : "NOT_FOUND"}

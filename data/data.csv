@@ -1,14 +1,4 @@
 text,class
-"hi, good morning",GREETING
-good morning,GREETING
-good evening,GREETING
-morning,GREETING
-hi!,GREETING
-hi,GREETING
-good afternoon,GREETING
-good night,GREETING
-hey,GREETING
-hey! there,GREETING
 i need to enroll for a course,ENROLL_COURSE
 enroll me for the course,ENROLL_COURSE
 i want to enroll for the course module imgt 8799,ENROLL_COURSE
@@ -16,10 +6,10 @@ i need to enroll for the course seng 1254,ENROLL_COURSE
 enroll me for the imgt 7452,ENROLL_COURSE
 please enroll me for the course seng 4123,ENROLL_COURSE
 i need to know my results,GET_RESULT
-i want to see my results for course SENG 14523,GET_RESULT
+i want to see my results for course,GET_RESULT
 i need to know my results for the course,GET_RESULT
 i would like to see my results,GET_RESULT
-i need to see my result for subject SENG 14523,GET_RESULT
+i need to see my result for subject,GET_RESULT
 need to shedule a lecture,ARRANGE_LECTURE
 i need to shedule a lecture,ARRANGE_LECTURE
 i want to arrange a lecture,ARRANGE_LECTURE
