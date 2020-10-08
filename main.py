@@ -29,7 +29,8 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn import tree
 from sklearn.feature_extraction.text import CountVectorizer
 
-classifier = MultinomialNB()
+#classifier = MultinomialNB()
+classifier = tree.DecisionTreeClassifier()
 stop_words = ['i','please','a','to']
 
 countervect = CountVectorizer(min_df=5)  ##,stop_words=stop_words
